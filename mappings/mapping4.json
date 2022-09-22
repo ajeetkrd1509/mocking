@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/v1.1/priyanka"
+    },
+    "response": {
+        "status": 203,
+        "body": "helo world from priyanka",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

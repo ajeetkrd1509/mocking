@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/pooja"
+    },
+    "response": {
+        "status": 200,
+        "body": "pooja baby name is Krishu Aditya",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

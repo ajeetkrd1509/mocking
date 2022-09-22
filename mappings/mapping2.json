@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/exchange"
+    },
+    "response": {
+        "status": 200,
+        "body": "exchange",
+        "headers": {
+            "Content-Type": "text/plain"
+        }
+    }
+}

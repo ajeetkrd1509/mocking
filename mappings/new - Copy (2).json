@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/time"
+    },
+    "response": {
+        "status": 200,
+        "body": "Its continuously running ",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
